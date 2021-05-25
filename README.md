@@ -11,6 +11,7 @@ danego zdjęcia powinna zostać wyświetlona dodana do niego notatka.
 Dodaj mechanizm, który będzie sprawdzał, czy użytkownik znajduje się w obrębie 1 km od
 lokalizacji zrobienia zdjęcia. Jeśli tak, powinien otrzymać powiadomienie o takiej sytuacji z
 możliwością obejrzenia zdjęcia oraz odczytania notatki.
+
 Aplikacja powinna posiadać również ekran ustawień, w którym użytkownik może zmienić
 kolor/rozmiar napisu na zdjęciu oraz promień okręgu działania powiadomień (domyślnie 1
 km).
